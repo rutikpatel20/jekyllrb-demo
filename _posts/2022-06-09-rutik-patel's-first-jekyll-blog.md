@@ -70,3 +70,6 @@ sum(3,4);
 # Images in md
 ![image](/assets/images/logoR.png)
 ![alttext](/assets/images/Simform.svg)
+
+![image](jekyllrb-demo/assets/images/logoR.png)
+![alttext](jekyllrb-demo/assets/images/Simform.svg)

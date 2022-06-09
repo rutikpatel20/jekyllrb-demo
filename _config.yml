@@ -30,9 +30,14 @@ twitter_username: rutikkpatel
 github_username:  rutikkpatel
 
 # Build settings
-theme: minima
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

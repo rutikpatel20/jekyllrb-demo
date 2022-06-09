@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Rutik Patel's First Jekyll Blog"
 date: 2022-06-09 10:05:00 +0530
 categories: technology

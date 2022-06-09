@@ -5,7 +5,8 @@ date: 2022-06-09 10:05:00 +0530
 categories: technology
 ---
 
-  
+<!-- To add Navigation Bar -->
+{% include navbar.html %}
 ## Hi there, This is Rutik Patel  👋
 
 
@@ -71,5 +72,5 @@ sum(3,4);
 ![image](/assets/images/logoR.png)
 ![alttext](/assets/images/Simform.svg)
 
-![image](../assets/images/logoR.png)
-![alttext](../assets/images/Simform.svg)
+![image](../../../../assets/images/logoR.png)
+![alttext](../../../../assets/images/Simform.svg)

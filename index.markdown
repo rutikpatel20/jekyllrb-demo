@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+| ![](https://source.unsplash.com/random/250x250/?android) | ![](https://source.unsplash.com/random/250x250/?rubyonrails) | ![](https://source.unsplash.com/random/250x250/?photoshop)
+| ![](https://source.unsplash.com/random/250x250/?books) | ![](https://source.unsplash.com/random/250x250/?logo) | ![](https://source.unsplash.com/random/250x250/?coffee)

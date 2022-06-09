@@ -71,5 +71,5 @@ sum(3,4);
 ![image](/assets/images/logoR.png)
 ![alttext](/assets/images/Simform.svg)
 
-![image](jekyllrb-demo/assets/images/logoR.png)
-![alttext](jekyllrb-demo/assets/images/Simform.svg)
+![image](../assets/images/logoR.png)
+![alttext](../assets/images/Simform.svg)
